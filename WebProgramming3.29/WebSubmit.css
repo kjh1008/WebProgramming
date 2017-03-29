@@ -1,0 +1,244 @@
+* {
+	margin : 0;
+	padding : 0;
+	text-decoration : none;
+}
+.BGcolor {
+	background-color : rgb(63, 81, 181);
+}
+.ProfileImg {
+	border-radius: 50%;
+	height : 160px;
+	width : 160px;
+	background-color : white;
+	border-color : 0;
+}
+header {
+	width : 100%;
+	padding : 2em;
+	text-align : center;
+}
+header h1 {
+	margin : 0.9em 0 0 0;
+	padding : 0;
+	font-weight : 300;
+	font-size : 1.4em;
+	line-height : 1.4;
+	color : white;
+}
+header p {
+	font-size : 1em;
+	margin : 0.1em 0px 0.6em 0px;
+	padding : 6px 10px;
+	display : inline-block;
+	font-style : italic;
+	background-color : #faf46a;
+	border-radius : 4px;
+}
+header ul {
+	list-style : none;
+	display: block;
+	float : center;
+	height : 64px;
+	line-height: 64px;
+	margin-top : 15px;
+}
+header ul li{
+	width : 240px;
+	height : 64px;
+	font-size : 32px;
+	display: inline-block;
+
+}
+header ul a {
+	color : white;
+}
+header ul li:hover{
+	background-color : rgba(0, 0, 0, 0.1);
+}
+
+
+.Container {
+	padding : 40px 16%;
+	display : block;
+	text-align : center;
+	height : 200px;
+}
+.Container h3{
+	padding : 10px 22%;
+	text-align : left;
+	margin-left : 40px;
+}
+.AboutMe{
+	width : 66.66667%;
+	height : 250px;
+	float : left;
+}
+.Latest-Tweets{
+	width : 33.33333%;
+	height : 250px;
+	float : right;
+}
+.Latest-Tweets h3 {
+	margin-left : 0;
+}
+.Latest-Tweets a{
+	color : #ff4081;
+}
+.TweetsCard {
+	padding : 30px 40px;
+	background-color : #c5cae9;
+	height : 110px;
+}
+
+.AboutMe p {
+	padding :30px 50px;
+	font-size : 25px;
+}
+.fontblue {
+	color : rgb(63, 81, 181);
+}
+
+
+
+.firstbox {
+	margin-top : 30px;
+	margin-left : 19%;
+	width : 19%;
+	display : inline-block;
+	text-align : center;
+	float : left;
+	height : 200px;
+}
+.secondbox {
+	margin-top : 30px;
+	margin-left : 2%;
+	width : 19%;
+	display : inline-block;
+	text-align : center;
+	float : center;
+	height : 200px;
+}
+.thirdbox {
+	margin-top : 30px;
+	margin-right : 17%;
+	width : 19%;
+	display : inline-block;
+	text-align : center;
+	float : right;
+	height : 200px;
+}
+.box {
+	padding : 0.5%;
+	padding-top : 20px;
+	color : white;
+	font-size : 15px;
+}
+.box a{
+	font-size : 25px;
+	color : white;
+}
+.Rbutton {
+	text-align : center;
+	color : white;
+	font-size : 18px;
+	display : inline-block;
+	background-color : #ff4081;
+	padding : 15px 30px;
+	margin-top : 30px;
+	margin-left : 42.5%;
+	margin-bottom : 30px;
+}
+.WorkProcess{
+	border-width : 100px;
+	height : 300px;
+	padding : 0.5%;
+}
+.WorkProcess h4 {
+	background-color : gray;
+	color : white;
+	text-align: left;
+	padding-left : 30px;
+	padding-top : 120px;
+	padding-bottom : 30px;
+	font-size : 24px;
+}
+.WorkProcess p {
+	text-align: left;
+	color : gray;
+	padding : 30px 20px;
+}
+.WorkProcess ul{
+	padding-bottom : 50px;
+}
+div h3 {
+	margin-left : 22%;
+}
+
+.FF ul li {
+	background-color : #f50057;
+	margin : 10px;
+	width : 18%;
+	display : inline-block;
+	text-align: center;
+	padding-top : 70px;
+
+}
+.FF ul {
+	margin-left : 18%;
+}
+.FF ul li p{
+	color : white;
+	font-size : 15px;
+	padding-bottom: 18px;
+}
+.FF .Num {
+	font-size : 20px;
+	padding-bottom : 18px;
+}
+
+footer {
+	padding :50px 30%;
+	padding-bottom: 150px;
+	background-color : rgb(63, 81, 181);
+	color : white;
+	text-align: center;
+	line-height: 30px;
+}
+
+footer h3 {
+	font-weight: normal;
+}
+
+.last {
+	padding : 10px;
+	background-color: #303f9f;
+	text-align: center;
+	color : white;
+}
+.last a{
+	color : #ff4081;
+}
+
+.afontpink a{
+	color : #ff4081;
+}
+.LF h3 {
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+.Ari{
+	margin-left : 18%;
+	margin-right : 18%;
+}
+.Ari img{
+	display : inline-block;
+	width : 15.6%;
+	margin-left : 5px;
+}
+
+
+.LI h3 {
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
